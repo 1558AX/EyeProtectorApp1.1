@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Eye Protector 20-20-20</string>
+    <string name="start">تشغيل</string>
+    <string name="stop">إيقاف</string>
+    <string name="notify_title">حان وقت الراحة</string>
+    <string name="notify_text">تذكير بقاعدة 20-20-20</string>
+    <string name="service_running">التطبيق يعمل</string>
+</resources>
